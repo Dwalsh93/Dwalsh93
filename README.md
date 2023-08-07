@@ -5,6 +5,6 @@
 - 📝 As a writer and educator, I feel particularly equipped to break down complex ideas in an easily digestible manner. As a technical writer I believe I'd excel in delivering easy-to-understand translations between developers and consumers. 
 
 - 📫 How to reach me: 
-      *dillonwalsh93@gmail.com
-      *https://www.linkedin.com/in/dillonrwalsh/
-- ⚡ Fun fact: 
+     - dillonwalsh93@gmail.com
+     - https://www.linkedin.com/in/dillonrwalsh/
+
